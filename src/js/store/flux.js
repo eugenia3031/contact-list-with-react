@@ -2,7 +2,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 	return {
 	  store: {
 		BASEURL: `https://assets.breatheco.de/apis/fake/contact`,
-		user: "eddiaz",
+		user: "erivero",
   
 		contacts: [],
 	  },
